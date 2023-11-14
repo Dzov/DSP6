@@ -3,3 +3,4 @@ data/
 .DS_Store
 Resources/
 requirements.txt
+first_model_best_weights.h5
